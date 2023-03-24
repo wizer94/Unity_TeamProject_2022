@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Bullet
+  - Wall
+  - Enemy
+  - player
+  - OtherEnemy
+  - enterS5_T
+  - enterS5_R
+  - enterS5_L
+  - enterS5_LB
+  - enterS1_T
+  - enterS1_TR
+  - enterS3_T
+  - enterS4_B
+  - enterS4_R
+  - enterS6_L
+  - enterS6_T
+  - enterS6_B
+  - enterS8_B
+  - DropChip
+  - WeaponChip
+  - Reticle
+  - enterS8_R
+  - enterS9_L
+  - enterS9_B
+  - Item
+  - fade
+  - enter_T
+  - EnemyBullet
+  - Inventory
+  - Dummy
+  - SavePoint
+  - WeaponChipT
+  - PlayerChipT
+  - SavePointT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - Wall
+  - PlayerMark
+  - Tutorial
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4826900ce8ccb354aa9c6188d655d312
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet_: {fileID: 1836837368673404, guid: 349f49cadb9cfbf4b805c9c1bf9cc52f, type: 3}
+  - shotSound: {instanceID: 0}
+  - setSound: {fileID: 8300000, guid: 95a6826ae55335a438941bcd7b9f1286, type: 3}
+  - reloadStart: {fileID: 8300000, guid: cea797d0b5102814f98ad9a9fc9392d5, type: 3}
+  - reloadEnd: {fileID: 8300000, guid: 32d73bd0443810147adf464b9b26b7a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
